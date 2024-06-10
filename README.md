@@ -24,8 +24,6 @@ Testing and Optimization: Conducted extensive testing to ensure the system's rel
 Outcome:
 The project successfully demonstrated a functional gesture-controlled autonomous vehicle. It showcased the potential of combining machine learning with hardware to create intuitive and innovative control systems. The system's ability to accurately recognize gestures and control the vehicle in real-time was a significant achievement, highlighting the project's success.
 
-This project not only honed my technical skills in machine learning, software development, and hardware integration but also underscored the importance of interdisciplinary knowledge and meticulous testing in creating robust and effective solutions.
-
 
 
 
